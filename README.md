@@ -1,2 +1,2 @@
-# Classifica-De-Documentps
+# Classificação-De-Documentps
 Computação Paralela e Distribuída
